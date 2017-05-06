@@ -1,0 +1,1 @@
+("5.3.6" ("75cd240aabad88004c4888b2f794875ef2771f25" . "c1a4c67f19aff779d572b2c00698f39a77cf3281") #"/home/archit/CS154_Project-150070004-150070001-150110017/connect4.rkt" #"/home/archit/CS154_Project-150070004-150070001-150110017/position.rkt" (collects #"racket" #"gui.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))
