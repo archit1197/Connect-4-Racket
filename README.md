@@ -11,6 +11,8 @@ down, occupying the next available space within the column. The challenge is to 
 computer AI version of the game, using heuristics to ensure efficient moves of the AI. Also designing a UI
 for the game.
 
+![picture alt](https://github.com/archit1197/Connect-4-Racket/blob/master/racket.png "Connect 4 simulator")
+
 ### AI Algorithm ###
 1. Minmax
 There are essentially two players playing the game - The computer is the
